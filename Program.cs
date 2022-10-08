@@ -9,10 +9,10 @@
             //LargestNumber.CheckLargestNumber();
             //QuotientRemainder.CheckQuotientRemainder();
             //OddOrEven.CheckOddEvenNumber();
-            //PrimeFactor.FindPrimeFactor();
+            PrimeFactor.FindPrimeFactor();
             //LeapYear.FindLeapYear();
             //FlipCoin.Calculateflips(3);
-            Powerof2.calculatepower();
+            //Powerof2.calculatepower();
             //HarmonicNumber.FindHarmonicNumber();
         }
     }
