@@ -8,11 +8,11 @@
             //SwapTwoNumbers.SwapNumber();
             //LargestNumber.CheckLargestNumber();
             //QuotientRemainder.CheckQuotientRemainder();
-            OddOrEven.CheckOddEvenNumber();
+            //OddOrEven.CheckOddEvenNumber();
             //PrimeFactor.FindPrimeFactor();
             //LeapYear.FindLeapYear();
             //FlipCoin.Calculateflips(3);
-            //Powerof2.calculatepower();
+            Powerof2.calculatepower();
             //HarmonicNumber.FindHarmonicNumber();
         }
     }
