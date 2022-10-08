@@ -5,9 +5,9 @@
         public static void Main(string[] args)
         {
             //VowelAndConsonant.CheckTheTypeOfCharacter();
-            //SwapTwoNumbers.SwapNumber();
+            SwapTwoNumbers.SwapNumber();
             //LargestNumber.CheckLargestNumber();
-            QuotientRemainder.CheckQuotientRemainder();
+            //QuotientRemainder.CheckQuotientRemainder();
             //OddOrEven.CheckOddEvenNumber();
             //PrimeFactor.FindPrimeFactor();
             //LeapYear.FindLeapYear();
