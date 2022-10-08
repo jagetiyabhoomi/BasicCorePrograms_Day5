@@ -6,11 +6,11 @@
         {
             //VowelAndConsonant.CheckTheTypeOfCharacter();
             //SwapTwoNumbers.SwapNumber();
-            LargestNumber.CheckLargestNumber();
+            //LargestNumber.CheckLargestNumber();
             //QuotientRemainder.CheckQuotientRemainder();
             //OddOrEven.CheckOddEvenNumber();
             //PrimeFactor.FindPrimeFactor();
-            //LeapYear.FindLeapYear();
+            LeapYear.FindLeapYear();
             //FlipCoin.Calculateflips(3);
             //Powerof2.calculatepower();
             //HarmonicNumber.FindHarmonicNumber();
