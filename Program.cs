@@ -11,9 +11,9 @@
             //OddOrEven.CheckOddEvenNumber();
             //PrimeFactor.FindPrimeFactor();
             //LeapYear.FindLeapYear();
-            //FlipCoin.Calculateflips(3);
+            FlipCoin.Calculateflips(3);
             //Powerof2.calculatepower();
-            HarmonicNumber.FindHarmonicNumber();
+            //HarmonicNumber.FindHarmonicNumber();
         }
     }
 }
