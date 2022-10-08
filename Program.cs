@@ -7,9 +7,9 @@
             //VowelAndConsonant.CheckTheTypeOfCharacter();
             //SwapTwoNumbers.SwapNumber();
             //LargestNumber.CheckLargestNumber();
-            //QuotientRemainder.CheckQuotientRemainder();
+            QuotientRemainder.CheckQuotientRemainder();
             //OddOrEven.CheckOddEvenNumber();
-            PrimeFactor.FindPrimeFactor();
+            //PrimeFactor.FindPrimeFactor();
             //LeapYear.FindLeapYear();
             //FlipCoin.Calculateflips(3);
             //Powerof2.calculatepower();
